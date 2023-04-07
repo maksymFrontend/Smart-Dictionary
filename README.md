@@ -1,4 +1,4 @@
-# Smart-Dictionary
+# Smart Dictionary
 "Smart dictionary" is an information system that provides functions for storing and studying words, promoting more effective management of a personal vocabulary and improving language proficiency.
 
 "Smart dictionary" is a project that allows users to store words and improve their language skills, as well as features text scanning and recognition. I, in turn, developed both the Frontend and Backend parts of this system. This project is a convenient tool for learning a language and managing a personal vocabulary.
