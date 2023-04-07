@@ -1,4 +1,4 @@
-# Smart Dictionary
+# Smart Dictionary (In developing)
 
 <img src="https://github.com/maksymFrontend/Smart-Dictionary/blob/main/public/mainImg.png?raw=true" alt="Smart Dictionary">
 
